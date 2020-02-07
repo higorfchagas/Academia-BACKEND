@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Controllers\WeatherForecastController.cs" />
     <Compile Remove="Migrations\20200206225521_criacaobanco.cs" />
     <Compile Remove="Migrations\20200206225521_criacaobanco.Designer.cs" />
   </ItemGroup>
